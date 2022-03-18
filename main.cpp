@@ -11,6 +11,7 @@
 
 
 
+
 typedef struct p{
 	double px;
 	double py;
