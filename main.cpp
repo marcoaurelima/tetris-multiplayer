@@ -10,6 +10,7 @@
 #include <SFML/Audio.hpp>
 
 
+
 typedef struct p{
 	double px;
 	double py;
